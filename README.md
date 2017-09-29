@@ -10,4 +10,8 @@ Steps:
 4. Inspect the html of the gallery dialog, and save the entire html.
 
 # Usage
-groupme-gallery-dump.py dump.html myFolder
+```
+py groupme-gallery-dump.py dump.html myFolder
+```
+# Demo
+![demo](https://i.imgur.com/5f2a6pO.png)
